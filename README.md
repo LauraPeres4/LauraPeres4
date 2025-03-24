@@ -5,7 +5,7 @@ Sou [seu nome ou apelido], um desenvolvedor apaixonado por tecnologia e inovaç�
 ## Meu GIF Favorito! ✨
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYuWjrA8iX8Hbo4/giphy.gif" alt="Meu GIF">
+  <img src="https://www.picgifs.com/glitter-gifs/w/welcome/picgifs-welcome-4121646.gif" alt="Meu GIF">
 </p>
 
 ## Sobre Mim
