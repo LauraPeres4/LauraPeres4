@@ -1,6 +1,20 @@
+# Olá, Bem-vindo ao meu perfil! 👋
+
+Sou [seu nome ou apelido], um desenvolvedor apaixonado por tecnologia e inovação. 🚀
+
+## Meu GIF Favorito! ✨
 
 <p align="center">
-  <img src="(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2k3aXBteWdreWo1Z3RocngxejRtczg5cnAxNG81bmhsYjNsZHdnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9xjttRT0SmU3HG/giphy.gif)">
+  <img src="https://media.giphy.com/media/l0MYuWjrA8iX8Hbo4/giphy.gif" alt="Meu GIF">
 </p>
+
+## Sobre Mim
+
+- 🌱 Atualmente aprendendo **Python**, **React** e **Machine Learning**.
+- 🔭 Trabalhando em **projetos pessoais** de automação.
+- 👯 Procurando colaborar em projetos de **código aberto**.
+- 📫 Como me encontrar: [email@dominio.com](mailto:email@dominio.com)
+- ⚡ Curiosidade: Sou fã de **jogos indie** e **filmes de ficção científica**.
+
 
 
